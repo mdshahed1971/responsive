@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* what-i-do start */
+.what-i-do{
+    margin-bottom: 110px;
+ }
+ /* what-i-do title start */
+ .what-i-do-title p{
+    text-align: center;
+    color:  #757575;
+ font-size: 18px;
+ font-weight: 400;
+ margin-top: 30px;
+ margin-bottom: 50px;
+ }
+ .section-title{
+     text-align: center;
+     color: #181818;
+ font-size: 32px;;
+ font-weight: 700;
+ }
+ /* what-i-do title end */
+ /* skill-container start */
+ .skill-container{
+     display: flex;
+     justify-content: center;
+     gap: 25px;
+ }
+ .skill{
+     border-radius: 5px;
+     background: #FFF;
+     box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+     padding: 30px;
+ }
+ .skill p{
+     margin-top: 20px;
+   margin-bottom: 30px;
+   color: #757575;
+ font-size: 16px;
+ font-weight: 400;
+ }
+ .skill h3{
+     color: #181818;
+ font-size: 20px;
+ font-weight: 700;
+ }
+ .skill img{
+     margin-top: 20px;
+     margin-bottom: 20px;
+ }
+ /* skill-container end */
+ /* what-i-do start */
